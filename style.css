@@ -7,27 +7,27 @@ body {
 }
 
 .heading {
-	font-family: 'Pacifico', cursive;
-	margin: 35px auto 20px;
+	font-family: 'Lato', cursive;
+	margin: 40px auto 30px;
 }
 
 hr {
-	border-top: 2px solid black;
+	border-top: 2px solid blue;
 	width: 40%;
-	margin-bottom: 55px;
+	margin-bottom: 60px;
 }
 
 .main {
-	width: 50vw;
+	width: 60vw;
 	margin: auto;
-	padding: 30px;
-	border-radius: 5px;
+	padding: 40px;
+	border-radius: 10px;
 	background-color: rgba(0, 0, 0, 0.5);
-	color: white;
+	color: red;
 }
 
 label {
-	font-size: 20px;
+	font-size: 30px;
 }
 
 .btn {
@@ -35,7 +35,7 @@ label {
 }
 
 #finalAmount {
-	font-family: 'Lobster', cursive;
+	font-family: 'Lato', cursive;
 	display: none;
 	margin: 50px auto;
 }
