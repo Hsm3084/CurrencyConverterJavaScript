@@ -1,5 +1,5 @@
 body {
-	background-color: aliceblue;
+	background-color: black;
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
@@ -9,12 +9,6 @@ body {
 .heading {
 	font-family: 'Lato', cursive;
 	margin: 40px auto 30px;
-}
-
-hr {
-	border-top: 2px solid blue;
-	width: 40%;
-	margin-bottom: 60px;
 }
 
 .main {
